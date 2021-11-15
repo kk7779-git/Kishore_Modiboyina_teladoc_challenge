@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-11-14T11:57:10 PST" name="Suite" finished-at="2021-11-14T11:57:33 PST" duration-ms="22776">
+  <suite started-at="2021-11-15T11:42:13 PST" name="Suite" finished-at="2021-11-15T11:42:24 PST" duration-ms="10399">
     <groups>
     </groups>
-    <test started-at="2021-11-14T11:57:10 PST" name="Test" finished-at="2021-11-14T11:57:33 PST" duration-ms="22776">
-      <class name="TeladocProject.UserMaintenance.UserMain">
-        <test-method signature="createUser()[pri:0, instance:TeladocProject.UserMaintenance.UserMain@21de60b4]" started-at="2021-11-14T11:57:10 PST" name="createUser" finished-at="2021-11-14T11:57:28 PST" duration-ms="17794" status="PASS">
+    <test started-at="2021-11-15T11:42:13 PST" name="Test" finished-at="2021-11-15T11:42:24 PST" duration-ms="10399">
+      <class name="TeladocProject.UserMaintenance.UserMainTest">
+        <test-method signature="createUser()[pri:0, instance:TeladocProject.UserMaintenance.UserMainTest@21de60b4]" started-at="2021-11-15T11:42:13 PST" name="createUser" finished-at="2021-11-15T11:42:20 PST" duration-ms="6225" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createUser -->
-        <test-method signature="deleteuser()[pri:0, instance:TeladocProject.UserMaintenance.UserMain@21de60b4]" started-at="2021-11-14T11:57:28 PST" name="deleteuser" finished-at="2021-11-14T11:57:33 PST" duration-ms="4928" status="PASS">
+        <test-method signature="deleteuser()[pri:0, instance:TeladocProject.UserMaintenance.UserMainTest@21de60b4]" started-at="2021-11-15T11:42:20 PST" name="deleteuser" finished-at="2021-11-15T11:42:24 PST" duration-ms="4131" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- deleteuser -->
-      </class> <!-- TeladocProject.UserMaintenance.UserMain -->
+      </class> <!-- TeladocProject.UserMaintenance.UserMainTest -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>
