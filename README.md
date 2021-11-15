@@ -11,5 +11,5 @@ Open the uploaded project in eclipse.
 right click on testng.hml in the project -> Run as TestNG Suite
 
 To Run from command line:
-
+cd UserMaintainance
 mvn clean test
