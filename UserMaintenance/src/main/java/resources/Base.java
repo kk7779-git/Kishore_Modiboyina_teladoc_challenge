@@ -16,7 +16,7 @@ public class Base {
 	public WebDriver intializeDriver() throws IOException {
 		
 		Properties prop = new Properties();
-		FileInputStream fis = new FileInputStream("C:\\Users\\kkmod\\eclipse-workspace\\UserMaintenance\\src\\main\\java\\resources\\data.properties");
+		FileInputStream fis = new FileInputStream(".\\src\\main\\java\\resources\\data.properties");
 		prop.load(fis);
 		String browserName = prop.getProperty("browser");
 		
